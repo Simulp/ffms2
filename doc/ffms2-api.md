@@ -4,7 +4,7 @@ It gives you a convenient way to say "open and decompress this media file for me
 May be frame and/or sample accurate on good days.
 The library is written in C++, but the public API is C-friendly and it is possible to simply include and link directly with a pure C application.
 
-The source is MIT licensed and can be obtained from GitHub; see https://github.com/FFMS/ffms2.
+The source is MIT licensed and can be obtained from GitHub; see https://github.com/FFMS/ffms2
 
 ## Limitations
 FFMS2 does not mux or encode anything.
