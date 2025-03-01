@@ -2,7 +2,7 @@
 
 Opens files using FFmpeg and (almost) nothing else.
 May be frame accurate on good days.
-The source is MIT licensed and can be obtained from https://github.com/FFMS/ffms2/.
+The source is MIT licensed and can be obtained from https://github.com/FFMS/ffms2/
 The precompiled binary is GPL3 licensed.
 If you are religious you may consider this the second coming.
 
